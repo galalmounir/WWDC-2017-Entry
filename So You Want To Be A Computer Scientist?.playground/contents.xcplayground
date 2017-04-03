@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' auto-termination-delay='34' display-mode='raw'>
+    <pages>
+        <page name='Welcome'/>
+        <page name='What is Binary'/>
+        <page name='Binary and Math'/>
+        <page name='Binary and Gates'/>
+        <page name='Binary and Gates 2'/>
+    </pages>
+</playground>
