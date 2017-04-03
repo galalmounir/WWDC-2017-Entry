@@ -1,4 +1,4 @@
-![WWDC 2017](/So You Want To Be A Computer Scientist?.playground/Resources/)
+![WWDC 2017](/So You Want To Be A Computer Scientist?.playground/Resources/BoyElephant.png)
 
 # WWDC-2017-Entry
 
